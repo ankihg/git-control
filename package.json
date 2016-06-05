@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/ankihg/git-control/issues"
   },
-  "homepage": "https://github.com/ankihg/git-control#readme"
+  "homepage": "https://github.com/ankihg/git-control#readme",
+  "dependencies": {
+    "nodegit": "^0.13.0"
+  }
 }
